@@ -8,7 +8,7 @@ const getStoredCart = () =>{
  
 const saveCartToLS = cart =>{
     const cartStringified =JSON.stringify(cart);
-    localStorage.setItem('cart', cartStringified());
+    localStorage.setItem('cart', cartStringified);
 }
 
 const addToLS = id =>{
@@ -18,4 +18,4 @@ const addToLS = id =>{
 }
 
 
-export {addToLS}
+export {addToLS, getStoredCart}
