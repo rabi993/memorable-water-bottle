@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "brand": "Hydro Flask",
+    "capacity": 32,
+    "material": "Stainless Steel",
+    "color": "Black",
+    "price": 40,
+    "weight": 450,
+    "lifespan": 10,
+    "hotColdSupport": true,
+    "image": "https://images.pexels.com/photos/14486614/pexels-photo-14486614.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+  },
+  {
+    "id": 2,
+    "brand": "Nalgene",
+    "capacity": 48,
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 15,
+    "weight": 180,
+    "lifespan": 5,
+    "hotColdSupport": false,
+    "image": "https://images.pexels.com/photos/17896661/pexels-photo-17896661.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+  },
+  {
+    "id": 3,
+    "brand": "CamelBak",
+    "capacity": 25,
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "price": 30,
+    "weight": 400,
+    "lifespan": 8,
+    "hotColdSupport": true,
+    "image": "https://images.pexels.com/photos/19607805/pexels-photo-19607805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 4,
+    "brand": "Contigo",
+    "capacity": 24,
+    "material": "Plastic",
+    "color": "Green",
+    "price": 12,
+    "weight": 200,
+    "lifespan": 4,
+    "hotColdSupport": false,
+    "image": "https://images.pexels.com/photos/28635474/pexels-photo-28635474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 5,
+    "brand": "S'well",
+    "capacity": 17,
+    "material": "Stainless Steel",
+    "color": "White",
+    "price": 35,
+    "weight": 350,
+    "lifespan": 7,
+    "hotColdSupport": true,
+    "image": "https://images.pexels.com/photos/20305723/pexels-photo-20305723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
